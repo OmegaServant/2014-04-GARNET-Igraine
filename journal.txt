@@ -1,8 +1,8 @@
-Author:
-Title:
+Author: Helena Oakey
+Title: Genome Analysis
 Abstract:
 
 Introduction:
 Data:
 Analysis:
-
+Conclusion:
